@@ -1,0 +1,34 @@
+elfutils
+openstego
+
+
+====================================================== Autres Infos ======================================================
+Alternatives to :
+	grep:
+		ack
+		gawk
+
+	
+======================================================= Logiciels =======================================================
+
+Stéganographie:
+	busysteg: Steganography tool to hide information content into busy areas of images, optimally.
+		CLI, efficace. 
+	gsteg: Steganography application in Gtk.
+		Ne peut lire et encrypter que les fichier .jpg
+	openstego: Plugin based tool for steganography, with encrytion support.
+		GUI, n'accepte que les fichier image.
+	outguess: A universal steganographic tool.
+		CLI, peut-être complexe
+	photocrypt: A text-to-image steganography tool.
+		GUI, simple, efficace mais uniquement image
+	stegsolve: A steganographic image analyzer, solver and data extractor for challanges.
+		GUI, incompréhensible pour le moment.
+	steghide: Embeds a message in a file by replacing some of the least significant bits.
+		CLI, outils complet, permet d'ecrire dans les fichier .wav
+
+
+
+Cryptographie :
+
+
